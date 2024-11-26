@@ -63,7 +63,8 @@ once finished you'll see Your deployment is complete
 
 3.b Near the top left of the screen click on + create, Azure virtual machine
 ![Linux1](https://github.com/user-attachments/assets/ff8bf459-595e-4f35-b77c-43a9e5a53928)
-3.c In the Resource group box select the Resource group that we previously created (RG-Network Activities) 3.d In the Virtual machine name box type linux-vm 3.e In the Region box select (Canada) Canada Central make sure you select the same Region as you did for your Resource group 3.f In the Image box select Ubuntu Server 22.04 LTS-x64 Gen2 3.g In the Size box select Standard-D2s_v3-2 vcpus 8 GiB memory and then scroll down to Administrator account
+3.c In the Resource group box select the Resource group that we previously created (RG-Network Activities) 
+3.d In the Virtual machine name box type linux-vm 3.e In the Region box select (Canada) Canada Central make sure you select the same Region as you did for your Resource group 3.f In the Image box select Ubuntu Server 22.04 LTS-x64 Gen2 3.g In the Size box select Standard-D2s_v3-2 vcpus 8 GiB memory and then scroll down to Administrator account
 ![Linux2](https://github.com/user-attachments/assets/9288f9f6-a7dd-4151-ac5c-23739a9b789f)
 3.h Click on the circle for Password 3.i Create a Username and Password 3.j Click on Next: Disk
 ![Linux3](https://github.com/user-attachments/assets/ddb91de3-9da5-4e02-acec-12a695ed1a2e)
