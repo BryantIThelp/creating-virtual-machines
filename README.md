@@ -24,7 +24,7 @@ In this tutorial, we observe icmp and network traffic to and from Azure Virtual 
 - Step 3 Create a Linux (Ubuntu)
 
 
-<h2>Actions and Observations</h2>
+<h2>Creation Steps</h2>
 
 1. Log into Microsoft Azure 1.a Click on Resource groups
 ![RG1](https://github.com/user-attachments/assets/33e1db8f-e218-45cc-82fd-ce185c2dc25c)
