@@ -1,9 +1,10 @@
-<p align="center">
+<p align="center"> 
 
+![image](https://github.com/user-attachments/assets/f419549f-105a-4acc-bbb0-e1e8d7640b3e)
 </p>
 <h1>Creating Virtual Machines within the Cloud (Azure)</h1>
 
-This tutorial Outlines the necessary steps to create a virtual machine within Microsoft Azure <br />
+This tutorial Outlines the necessary steps to create Virtual Machines within Microsoft Azure <br />
 
 
 
