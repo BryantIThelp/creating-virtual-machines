@@ -1,9 +1,9 @@
 <p align="center">
 
 </p>
+<h1>Creating Virtual Machines within the Cloud (Azure)</h1>
 
-Inspecting Network and ICMP Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe icmp and network traffic to and from Azure Virtual Machines with Wireshark. <br />
+This tutorial Outlines the necessary steps to create a virtual machine within Microsoft Azure <br />
 
 
 
